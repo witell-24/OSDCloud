@@ -1,0 +1,1 @@
+New-OSDCloudTemplate -Name 'WinRE' -SetInputLocale '0409:00000406'
